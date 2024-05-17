@@ -1,0 +1,102 @@
+body {
+    background-color: #f0f5f9;
+}
+
+h1,
+h5,
+p,
+a,
+.navbar-nav .nav-link,
+.card-title,
+.card-text {
+    color: #2c3e50;
+}
+
+.navbar {
+    background-color: #2980b9;
+}
+
+.navbar-nav .nav-link {
+    color: #040c0e;
+}
+
+.navbar-toggler-icon {
+    background-color: #ecf0f1;
+}
+
+.btn-primary {
+    background-color: #3498db;
+    border-color: #3498db;
+    color: #fff;
+}
+
+.card {
+    background-color: #fff;
+}
+
+.card-title,
+.card-text {
+    color: #2c3e50;
+}
+
+.card .btn-primary {
+    background-color: #2980b9;
+    border-color: #2980b9;
+}
+
+.footer1,
+.footer2 {
+    background-color: #2980b9;
+}
+
+.footer1,
+.footer2,
+.footer2 a,
+.footer2 p {
+    color: #040c0e;
+}
+
+.rSociais a {
+    background-color:#95a8bb;
+    color: #2980b9;
+}
+
+.rSociais a:hover {
+    color: #ecf0f1;
+}
+
+.custom-carousel-image {
+    object-fit: cover;
+    height: 50px;
+}
+
+.footer1 {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+}
+
+.footer2 {
+    background-color: #95a8bb;
+    padding: 20px 0;
+    color: #040c0e;
+    text-align: center;
+}
+
+.footer2 a {
+    color: #040c0e;
+}
+
+.footer2 a:hover {
+    color: #040c0e;
+}
+
+.rSociais a {
+    color: #1c1e9b;
+    margin-right: 50px;
+    
+}
+
+.infoFooter1,
+.footer2 {
+    text-align: center;
+}
